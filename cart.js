@@ -22,7 +22,6 @@ var vm =new Vue({
     methods:{
         cartView:function () {
             this.$http.get("data/cartData.json").then(res=> {
-
                 this.productList=res.data.result.list;
                 this.totalMoney=res.data.result.totalMoney;
             })
@@ -90,6 +89,10 @@ var vm =new Vue({
             console.log(this.curProduct);
             this.productList.splice(this.curProduct,1);
             this.delFlag=false;
+        },
+        jump:function () {
+            this.productList.some(return )
+
         }
 
     }
