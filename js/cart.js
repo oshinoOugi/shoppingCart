@@ -91,7 +91,7 @@ var vm =new Vue({
             this.delFlag=false;
         },
         jump:function () {
-            this.productList.some(return )
+
 
         }
 

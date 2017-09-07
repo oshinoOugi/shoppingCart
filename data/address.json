@@ -12,8 +12,8 @@
     },
     {
       "addressId":"100002",
-      "userName":"sanerfang",
-      "streetName":"北京市朝阳区朝阳公园2",
+      "userName":"CuiLi",
+      "streetName":"上海市长宁区中山公园",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false
@@ -21,7 +21,7 @@
     {
       "addressId":"100003",
       "userName":"WangZi",
-      "streetName":"北京市朝阳区朝阳公园3",
+      "streetName":"武汉市洪山区珞珈山",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false
