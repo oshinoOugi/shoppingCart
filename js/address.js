@@ -55,7 +55,7 @@ new Vue({
 
 
         },
-        //删除地址卡片~
+        //删除地址卡片
         delAddress:function () {
             this.addressList.splice(this.curAddress,1);
             this.delFlag=false;
